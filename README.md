@@ -20,6 +20,18 @@
 ## Citations
 + https://www.manning.com/books/building-ethereum-dapps
 + https://remix-ide.readthedocs.io/en/latest/running_js_scripts.html#compile-a-contract-and-run-a-script-on-the-fly
++ Few individuals participate in shareholder voting but that may change (cnbc.com)
++ 2020 Proxy Season Review (broadridge.com)
++ Say Technologies is Joining Robinhood — Under the Hood
++ broadridge-proxypulse_2022-season-preview-and-2021-review.pdf
++ Simplify the annual meeting process for Corporate Issuer | Broadridge
++ https://www.broadridge.com/white-paper/principles-and-best-practices-for-virtual-annual-shareowner-meetings 
++ Principles and Best Practices for Virtual Annual Shareowner Meetings (broadridge.com)
++ Say for Investors (saytechnologies.com)
++ Say for Public Companies (saytechnologies.com)
++ https://www.sec.gov/cgi-bin/browse-edgar?company=&CIK=&type=8-k&owner=include&count=40&action=getcurrent 
++ Solidity by Example — Solidity 0.8.14 documentation (soliditylang.org) 
+
 
 ## Images
 + 
